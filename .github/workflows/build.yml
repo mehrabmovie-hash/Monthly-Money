@@ -1,4 +1,4 @@
-name:.github/workflows/build.yml.
+name: build apk
 on:
   workflow_dispatch:
   push:
